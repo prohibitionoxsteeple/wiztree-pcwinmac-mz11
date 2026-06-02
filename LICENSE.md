@@ -1,4 +1,4 @@
-# 
+# Código aberto WizTree complementos para Mac OS | Automático WizTree complementos para PC Windows. Com limpeza de historico e analise de espaco em disco — otimizado para máximo desempenho em cada plataforma.
 
 
 
